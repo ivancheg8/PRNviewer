@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="PRNviewer.png" alt="Логотип" width="200">
+</div>
+
 # PRN Viewer - Программа для просмотра и конвертации PRN файлов
 
 ## Описание
